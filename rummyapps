@@ -1,0 +1,251 @@
+<html>
+<head>
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"rel="stylesheet">
+    <title>samesh</title>
+    <header class="text-gray-600 body-font">
+        <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+          <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="rectangle" stroke-linejoin="rectangle" stroke-width="2" class="w-10 h-10 text-black p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
+              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+            </svg>
+            <span class="ml-3 text-xl">SAMESH</span>
+          </a>
+          <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+            <a href="@sam_sngwan"class="mr-5 hover:text-gray-900">Instagram</a>
+            <a href="" class="mr-5 hover:text-gray-900">Telegram</a>
+            <a href="samesh sangwan"class="mr-5 hover:text-gray-900">Facebook</a>
+            <a href="8683882990" class="mr-5 hover:text-gray-900">WhatsApp</a>
+          </nav>
+          <button class="inline-flex items-center bg-indigo-400 border-2 py-1 px-3 focus:outline-none hover:bg-red-800 rounded text-base mt-4 md:mt-0">sign up
+            <button class="inline-flex items-center bg-gray-100 border-2 py-1 px-3 focus:outline-none hover:bg-black-800 rounded text-base mt-4 md:mt-0">sign in
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
+              <path d="M5 12h14M12 5l7 7-7 7"></path>
+            </svg>
+          </button>
+        </div>
+      </header>
+</head>
+<body>
+  <section class="text-gray-600 body-font">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="flex flex-col text-center w-full mb-20">
+        <h1 class="text-2xl font-medium title-font mb-4 text-gray-900">APPS</h1>
+        <p class="lg:w-2/3 mx-auto leading-relaxed text-base">All the casino apps are there to make money easily in one click.</p>
+        <p class="lg:w-2/3 mx-auto leading-relaxed text-base">JUST CLICK THE LINKS</p>
+        <p class="lg:w-2/3 mx-auto leading-relaxed text-base">👇👇💸💸💸💸👇👇</p>
+      </div>
+      <div class="flex flex-wrap -m-4">
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY WEALTH</h2>
+              <h3 class="text-gray-500 mb-3">bonus - 50</h3>
+              <p class="mb-4">very popular app to make money</p>
+              <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://rummy-wealth.com/" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY NABOOB</h2>
+              <h3 class="text-gray-500 mb-3">bonus - 50</h3>
+              <p class="mb-4">very popular app to make money</p>
+              <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE</a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-black-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+              <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummygod.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="h-full flex flex-col items-center text-center">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Pictures\Camera Roll\jatt.png">
+            <div class="w-full">
+              <h2 class="title-font font-medium text-lg text-gray-900">RUMMY APP</h2>
+              <h3 class="text-gray-500 mb-3">BONUS - 40</h3>
+              <p class="mb-4">very popular app to make money</p>
+                <p class="mb-4">withdrawal instant</p>
+              <span class="inline-flex">
+                <a href="https://www.rummynaboob.com" class="text-blue-500">CLICK HERE
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      <br>
+      <hr>
+      <section class="text-gray-600 body-font">
+        <div class="container px-5 py-24 mx-auto flex flex-wrap">
+          <div class="flex flex-wrap -mx-4 mt-auto mb-auto lg:w-1/2 sm:w-2/3 content-start sm:pr-10">
+            <div class="w-full sm:p-4 px-4 mb-6">
+              <h1 class="title-font font-medium text-xl mb-2 text-gray-900">ABOUT APPS</h1>
+              <div class="leading-relaxed">All the apps are trusted and all apps withdrawal are veryfied.</div>
+            </div>
+            <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
+              <h2 class="title-font font-medium text-3xl text-gray-900">500+</h2>
+              <p class="leading-relaxed">Apps</p>
+            </div>
+            <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
+              <h2 class="title-font font-medium text-3xl text-gray-900">10K+</h2>
+              <p class="leading-relaxed">Users veryfied</p>
+            </div>
+            <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
+              <h2 class="title-font font-medium text-3xl text-gray-900">50K+</h2>
+              <p class="leading-relaxed">Downloads</p>
+            </div>
+            <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
+              <h2 class="title-font font-medium text-3xl text-gray-900">Problem</h2>
+              <p class="leading-relaxed">Contact me</p>
+            </div>
+          </div>
+          <div class="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
+            <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="C:\Users\Anjali Sangwan\OneDrive\Desktop\sangwan\sam.jpeg">
+          </div>
+        </div>
+      </section>
+    </div>
+  </section>
+</body>
+</html>
